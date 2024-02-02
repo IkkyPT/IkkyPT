@@ -46,7 +46,7 @@
   <a href="https://discord.com/users/337542709143273473" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/ricardoramz1" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto: ricardoo1998carvalho@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href = "iamricardo.dev"><img src="https://img.shields.io/website-up-down-green-red/http/monip.org.svg" target="_blank"></a>
+  <a href = "https://iamricardo.dev/"><img src="https://img.shields.io/website-up-down-green-red/http/monip.org.svg" target="_blank"></a>
 
  </br>
 </br>
