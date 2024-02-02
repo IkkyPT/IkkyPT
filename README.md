@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **ricardoo1998carvalho@gmail.com**
 
-- 📄 Know about my experiences [iamricardo.dev](iamricardo.dev)
+- 📄 Know about my experiences **https://iamricardo.dev/**
 
 ## Stats
  <div>
